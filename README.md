@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and more 
 - 🌱 I’m currently learning Css, Js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me projects web and learn more
 
 <!---
 Julio-Hurtado/Julio-Hurtado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
